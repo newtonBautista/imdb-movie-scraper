@@ -45,6 +45,6 @@ Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para ma
 
 📞 Contato
 
-    Isaac Newton Bautista da Silva
+    Isaac
     Email: isaacnewton48@hotmail.com
 
