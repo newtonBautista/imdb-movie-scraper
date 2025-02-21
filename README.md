@@ -38,9 +38,11 @@ Este projeto realiza web scraping no site IMDb para coletar informações sobre 
 4. Os dados coletados serão salvos no arquivo movies.csv no mesmo diretório.
 
 
+
 ⚙️ Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+
 
 
 📞 Contato
