@@ -25,15 +25,15 @@ Este projeto realiza web scraping no site IMDb para coletar informações sobre 
 
 1. Clone este repositório:
 
-  git clone https://github.com/SEU_USUARIO/imdb-movie-scraper.git
+    git clone https://github.com/SEU_USUARIO/imdb-movie-scraper.git
 
 2. Instale as dependências:
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. Execute o script:
    
-   python scraper.py
+    python scraper.py
 
 4. Os dados coletados serão salvos no arquivo movies.csv no mesmo diretório.
 
