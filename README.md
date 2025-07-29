@@ -22,15 +22,15 @@ Este projeto realiza web scraping no site IMDb para coletar informações sobre 
 
 
 📋 Como usar
-'''
+
 1. Clone este repositório:
 
     git clone https://github.com/newtonBautista/imdb-movie-scraper.git
 
 2. (Opcional, mas recomendado) Instale os pré-requisitos no Linux:
 
-    sudo apt update
-    sudo apt install python3 python3-pip python3-venv
+    '''sudo apt update'''
+    '''sudo apt install python3 python3-pip python3-venv'''
 
 3. Crie e ative um ambiente virtual:
 
