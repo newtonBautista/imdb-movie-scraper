@@ -14,7 +14,7 @@ Este projeto realiza web scraping no site IMDb para coletar informações sobre 
 
 🛠️ Tecnologias
 
-    Python 🐍
+    Python 3
     Requests → Para fazer as requisições HTTP
     BeautifulSoup → Para análise e extração do HTML
     CSV → Para salvar os resultados em um arquivo
@@ -27,15 +27,39 @@ Este projeto realiza web scraping no site IMDb para coletar informações sobre 
 
     git clone https://github.com/newtonBautista/imdb-movie-scraper.git
 
-2. Instale as dependências:
+2. (Opcional, mas recomendado) Instale os pré-requisitos no Linux:
+
+    sudo apt update
+    sudo apt install python3 python3-pip python3-venv
+
+3. Crie e ative um ambiente virtual:
+
+    🐧 Linux/macOS:
+    
+    python3 -m venv venv
+    source venv/bin/activate
+    
+    🪟 Windows (CMD):
+    
+    python -m venv venv
+    venv\Scripts\activate
+    
+    🪟 Windows (PowerShell):
+    
+    python -m venv venv
+    venv\Scripts\Activate.ps1
+
+4. Instale as dependências:
 
     pip install -r requirements.txt
 
-3. Execute o script:
+5. Execute o script:
    
     python scraper.py
 
-4. Os dados coletados serão salvos no arquivo movies.csv no mesmo diretório.
+6. Resultado:
+
+    Os dados coletados serão salvos no arquivo movies.csv no mesmo diretório.
    
 
 
