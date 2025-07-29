@@ -83,7 +83,4 @@ Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para ma
 
 📞 Contato
 
-    Isaac
-    ```bash
     Email: isaacnewton48@hotmail.com
-    ```
