@@ -25,7 +25,7 @@ Este projeto realiza web scraping no site IMDb para coletar informações sobre 
 
 1. Clone este repositório:
 
-    git clone https://github.com/SEU_USUARIO/imdb-movie-scraper.git
+    git clone https://github.com/newtonBautista/imdb-movie-scraper.git
 
 2. Instale as dependências:
 
