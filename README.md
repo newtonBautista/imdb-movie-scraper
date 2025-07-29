@@ -27,43 +27,53 @@ Este projeto realiza web scraping no site IMDb para coletar informações sobre 
 
 ```bash
 git clone https://github.com/newtonBautista/imdb-movie-scraper.git
+```
 
 2. (Opcional, mas recomendado) Instale os pré-requisitos no Linux:
 
+```bash
 sudo apt update
 sudo apt install python3 python3-pip python3-venv
+```
 
 3. Crie e ative um ambiente virtual:
 
 🐧 Linux/macOS:
 
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
 🪟 Windows (CMD):
 
+```cmd
 python -m venv venv
 venv\Scripts\activate
+```
 
 🪟 Windows (PowerShell):
 
+```powershell
 python -m venv venv
 venv\Scripts\Activate.ps1
+```
 
 4. Instale as dependências:
 
+```bash
 pip install -r requirements.txt
+```
 
 5. Execute o script:
 
+```bash
 python scraper.py
+```
 
 6. Resultado:
 
-Os dados coletados serão salvos no arquivo movies.csv no mesmo diretório.
-
-
----
+Os dados coletados serão salvos no arquivo `movies.csv` no mesmo diretório.
    
 
 ⚙️ Licença
